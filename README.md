@@ -1,8 +1,15 @@
 ### Hi there, I'm Veronica 👋
 
-- I’m currently learning Node.js and React.js (You probably are going to see some tests and projects repositories using those technologies)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+
+
+I’m currently learning Node.js and React.js (You probably are going to see some tests and projects repositories using those technologies)
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+          
+</div>
+
           
 <div>
 <a href="https://github.com/verociolfi">
