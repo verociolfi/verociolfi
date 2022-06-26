@@ -1,7 +1,7 @@
 ### Hi there, I'm Veronica 👋
 
 <div>
-⚡<strong>My Qualifications</strong>
+⚡<strong>My Qualifications</strong><br>
 Ability to develop projects for Web Sites and ERPs.<br>
 Solid knowledge of Angular 11+<br>
 Solid knowledge in Laravel 8+ to create RESTFUL APIs<br>
