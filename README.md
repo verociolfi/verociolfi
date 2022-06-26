@@ -1,12 +1,12 @@
 ### Hi there, I'm Veronica 👋
 
 <div>
-⚡My Qualifications
-Ability to develop projects for Web Sites and ERPs.
-Solid knowledge of Angular 11+
-Solid knowledge in Laravel 8+ to create RESTFUL APIs
-8 years of frontend experience
-Fluent English - Writing, Reading, Interpreting and Speaking
+⚡<strong>My Qualifications</strong>
+Ability to develop projects for Web Sites and ERPs.<br>
+Solid knowledge of Angular 11+<br>
+Solid knowledge in Laravel 8+ to create RESTFUL APIs<br>
+8 years of frontend experience<br>
+Fluent English - Writing, Reading, Interpreting and Speaking<br>
 </div>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
