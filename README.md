@@ -3,11 +3,14 @@
 
 
 
-I’m currently learning Node.js and React.js (You probably are going to see some tests and projects repositories using those technologies)
+
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
-          
+          <div>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+          </div>
+          <div>
+          I’m currently learning Node.js and React.js (You probably are going to see some tests and projects repositories using those technologies)
+          </div>          
 </div>
 
           
