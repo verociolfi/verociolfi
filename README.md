@@ -1,11 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Veronica 👋
 
 - I’m currently learning Node.js and React.js (You probably are going to see some tests and projects repositories using those technologies)
-<i class="devicon-react-original-wordmark colored"></i> <i class="devicon-nodejs-plain colored"></i>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+          
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
 <!--
 **verociolfi/verociolfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
