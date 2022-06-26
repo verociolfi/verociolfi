@@ -1,7 +1,7 @@
 ### Hi there, I'm Veronica 👋
 
+### My Qualifications ⚡
 <div>
-###⚡<strong>My Qualifications</strong><br>
 Ability to develop projects for Web Sites and ERPs.<br>
 Solid knowledge of Angular 11+<br>
 Solid knowledge in Laravel 8+ to create RESTFUL APIs<br>
@@ -9,8 +9,8 @@ Solid knowledge in Laravel 8+ to create RESTFUL APIs<br>
 Fluent English - Writing, Reading, Interpreting and Speaking<br>
 </div>
 
-<div>
 ### Currently Learning
+<div>
 I’m currently learning Node.js and React.js (You probably are going to see some tests and projects repositories using those technologies)<br>
 </div> 
 <div>
