@@ -5,7 +5,7 @@ Based in São Paulo - SP<br>
 Female, 28 years old, Married<br>
 Nationality: Brazilian<br>
 
-Lover of all things Star Trek, cats and dogs and code!
+I'm a lover of all things Star Trek, I hate coffee and I'm definitely not a mornig person. 
 
 
 ### My Qualifications ⚡
