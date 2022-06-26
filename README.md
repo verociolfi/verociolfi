@@ -1,16 +1,19 @@
 ### Hi there, I'm Veronica 👋
 
-
-
-
-
-<div style="display:flex; justify-content:space-between;">
-          <div>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
-          </div>
-          <div>
-          I’m currently learning Node.js and React.js (You probably are going to see some tests and projects repositories using those technologies)
-          </div>          
+<div>
+⚡My Qualifications
+Ability to develop projects for Web Sites and ERPs.
+Solid knowledge of Angular 11+
+Solid knowledge in Laravel 8+ to create RESTFUL APIs
+8 years of frontend experience
+Fluent English - Writing, Reading, Interpreting and Speaking
+</div>
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+</div>
+<div>
+I’m currently learning Node.js and React.js (You probably are going to see some tests and projects repositories using those technologies)
+</div>          
 </div>
 
           
