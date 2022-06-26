@@ -1,5 +1,11 @@
 ### Hi there, I'm Veronica 👋
 
+I'm a Angular Front-End Developer
+Based in São Paulo - SP
+Female, 28 years old, Married
+Nationality: Brazilian
+
+
 ### My Qualifications ⚡
 <div>
 Ability to develop projects for Web Sites and ERPs.<br>
